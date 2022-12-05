@@ -65,6 +65,3 @@ También vía email  ▶️ yosoypxl@gmail.com ◀️
 
 
 <br />
-
-----
-
