@@ -6,6 +6,19 @@
 ## <div align="center">Pablo Xavier Lospennato</div>  
   
 
+
+
+### Bienvenido!!  
+Hola, soy Full Stack Developer recientemente graduado de HENRY Bootcamp, donde desarrollé experiencia en JavaScript, NodeJS, React, Redux, PostgtreSQL y Express entre otras tecnologías del sector. 
+
+Vengo del mundo de la música y la docencia, aunque siempre de la mano de la tecnología.
+
+Me considero enamorado del conocimiento y enfocado en los objetivos; de pensamiento creativo, trabajo en equipo, colaboración y cooperación; tengo ganas de formar parte de un equipo al cual aportar soluciones.  
+  
+
+
+
+### Contactame!  
 <div align="center">
 <a href="https://github.com/pablolospe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -19,42 +32,13 @@
 </div>  
   
 
-
-
-### Bienvenido!!  
-Hola, soy Full Stack Developer recientemente graduado de HENRY Bootcamp, donde desarrollé experiencia en JavaScript, NodeJS, React, Redux, PostgtreSQL y Express entre otras tecnologías del sector. 
-
-Vengo del mundo de la música y la docencia, aunque siempre de la mano de la tecnología.
-
-Me considero enamorado del conocimiento y enfocado en los objetivos; de pensamiento creativo, trabajo en equipo, colaboración y cooperación; tengo ganas de formar parte de un equipo al cual aportar soluciones.  
-  
-
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+### Email:  
+<div align="center">yosoypxl@gmail.com</div>  
   
-
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -76,25 +60,6 @@ Me considero enamorado del conocimiento y enfocado en los objetivos; de pensamie
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  
