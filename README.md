@@ -11,8 +11,6 @@
 ### Bienvenido!!  
 Hola, soy Full Stack Developer recientemente graduado de HENRY Bootcamp, donde desarrollé experiencia en JavaScript, NodeJS, React, Redux, PostgtreSQL y Express entre otras tecnologías del sector. 
 
-Vengo del mundo de la música y la docencia, aunque siempre de la mano de la tecnología.
-
 Me considero enamorado del conocimiento y enfocado en los objetivos; de pensamiento creativo, trabajo en equipo, colaboración y cooperación; tengo ganas de formar parte de un equipo al cual aportar soluciones.  
   
 
@@ -34,10 +32,7 @@ Me considero enamorado del conocimiento y enfocado en los objetivos; de pensamie
 
 <br/>  
 
-
-
-### Email:  
-<div align="center">yosoypxl@gmail.com</div>  
+También vía email  ▶️ yosoypxl@gmail.com ◀️  
   
 
 <br/>  
