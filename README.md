@@ -18,6 +18,9 @@ Me considero enfocado en los objetivos y de pensamiento creativo. Tengo ganas de
 
 ### Contactame!  
 <div align="center">
+<a href="https://pablolospe.github.io/pol-folio/" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a> 
 <a href="https://github.com/pablolospe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -26,9 +29,6 @@ Me considero enfocado en los objetivos y de pensamiento creativo. Tengo ganas de
 </a>
 <a href="https://instagram.com/polrashplash" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-<a href="https://pablolospe.github.io/pol-folio/" target="_blank">
-<img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
