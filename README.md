@@ -9,7 +9,7 @@
 
 
 ### Bienvenido!!  
-Hola, soy Full Stack Developer recientemente graduado de HENRY Bootcamp, donde desarrollé experiencia en JavaScript, NodeJS, React, Redux, PostgtreSQL y Express entre otras tecnologías del sector. 
+Hola, soy Full Stack Developer con experiencia en JavaScript, NodeJS, React, Redux, PostgtreSQL y Express entre otras tecnologías del sector. 
 
 Me considero enfocado en los objetivos y de pensamiento creativo. Tengo ganas de formar parte de un equipo en el cual aportar soluciones.
   
