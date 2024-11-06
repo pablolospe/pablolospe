@@ -1,9 +1,10 @@
 <div align="center">
-<img src="https://www.netsolutions.com/assets/images/software-dev-hub-banner-img.webp" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFJ51XXJaJILg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1670262442634?e=1736380800&v=beta&t=Npm3ECEEKl2BBptcx463KvEf6ZzdQiRLoygTBj3ecrI" align="center" style="width: 100%" />
 </div>  
   
-
 ## <div align="center">Pablo Xavier Lospennato</div>  
+#### <div align="center">Desarrollador full stack</div>  
+
   
 
 
@@ -20,14 +21,14 @@ Me considero enfocado en los objetivos y de pensamiento creativo.
 <div align="center">
 <a href="https://pablolospe.github.io/pol-folio/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
-</a> 
+</a>
 <a href="https://github.com/pablolospe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/pablo-xavier-lospennato-1065b4a2/" target="_blank">
+<a href="https://linkedin.com/in/pablo-xavier-lospennato" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/polrashplash" target="_blank">
+<a href="https://instagram.com/pablolospe" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
