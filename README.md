@@ -1,23 +1,20 @@
+## <div align="center">Pablo Xavier Lospennato</div>  
+#### <div align="center">Desarrollador full stack</div>  
 <div align="center">
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQFJ51XXJaJILg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1670262442634?e=1736380800&v=beta&t=Npm3ECEEKl2BBptcx463KvEf6ZzdQiRLoygTBj3ecrI" align="center" style="width: 100%" />
 </div>  
   
-## <div align="center">Pablo Xavier Lospennato</div>  
-#### <div align="center">Desarrollador full stack</div>  
-
-  
-
-
 
 ### Bienvenido!!  
-Hola, soy Full Stack Developer con experiencia en JavaScript, NodeJS, React, Redux, PostgtreSQL y Express entre otras tecnologías del sector. 
+Hola, mi nombre es Pablo Xavier Lospennato
+Soy Full Stack Developer 👨🏻‍💻 con formación docente 🎨 y experiencia en liderazgo 🎸. 
+Mi trayectoria en el campo de la educación me ha brindado valiosas habilidades en el manejo de grupos, la organización, el trabajo en equipo, la escucha activa y la atención a las necesidades individuales.
 
-Me considero enfocado en los objetivos y de pensamiento creativo.
-  
+Soy una persona responsable, perseverante y creativa; en el mundo del desarrollo web, nunca se deja de aprender, y eso es lo que me mantiene entusiasmado y en constante crecimiento.
 
+También soy músico y me gusta cocinar y deleitar a los comensales con mis habilidades culinarias.
 
-
-### Contactame!  
+### <div align="center">Contactame!  </div>
 <div align="center">
 <a href="https://pablolospe.github.io/pol-folio/" target="_blank">
 <img src=https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=portfolio&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
@@ -32,40 +29,24 @@ Me considero enfocado en los objetivos y de pensamiento creativo.
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
 
 <br/>  
 
 También vía email  ▶️ pablolospennato@gmail.com ◀️  
   
+<br/>  
+
+  Tecnologías 💻🌐
+
+• Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, Redux, Tailwind, Material UI.
+
+• Backend: JavaScript, Node.js, Express.js, PostgreSQL, Sequelize.
+
+• Herramientas: Git, Github, Slack, Trello, Notion.
+
+• Ágil: Scrum.
+
 
 <br/>  
 
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-</div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
