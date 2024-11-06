@@ -35,7 +35,7 @@ Me considero enfocado en los objetivos y de pensamiento creativo.
 
 <br/>  
 
-También vía email  ▶️ yosoypxl@gmail.com ◀️  
+También vía email  ▶️ pablolospennato@gmail.com ◀️  
   
 
 <br/>  
