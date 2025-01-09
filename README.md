@@ -38,9 +38,9 @@ También vía email  ▶️ pablolospennato@gmail.com ◀️
 
   Tecnologías 💻🌐
 
-• Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, Redux, Tailwind, Material UI.
+• Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, Redux, Zustand, Tailwind, Material UI.
 
-• Backend: JavaScript, Node.js, Express.js, PostgreSQL, Sequelize.
+• Backend: JavaScript, Node.js, Python, Django, Express.js, PostgreSQL, Sequelize.
 
 • Herramientas: Git, Github, Slack, Trello, Notion.
 
