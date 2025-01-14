@@ -8,6 +8,7 @@
 ### Bienvenido!!  
 Hola, mi nombre es Pablo Xavier Lospennato
 Soy Full Stack Developer 👨🏻‍💻 con formación docente 🎨 y experiencia en liderazgo 🎸. 
+
 Mi trayectoria en el campo de la educación me ha brindado valiosas habilidades en el manejo de grupos, la organización, el trabajo en equipo, la escucha activa y la atención a las necesidades individuales.
 
 Soy una persona responsable, perseverante y creativa; en el mundo del desarrollo web, nunca se deja de aprender, y eso es lo que me mantiene entusiasmado y en constante crecimiento.
