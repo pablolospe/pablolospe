@@ -13,7 +13,7 @@ Mi trayectoria en el campo de la educación me ha brindado valiosas habilidades 
 
 Soy una persona responsable, perseverante y creativa; en el mundo del desarrollo web, nunca se deja de aprender, y eso es lo que me mantiene entusiasmado y en constante crecimiento.
 
-También soy músico y me gusta cocinar y deleitar a los comensales con mis habilidades culinarias.
+También soy músico.
 
 ### <div align="center">Contactame!  </div>
 <div align="center">
