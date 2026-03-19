@@ -7,13 +7,9 @@
 
 ### Bienvenido!!  
 Hola, mi nombre es Pablo Xavier Lospennato
-Soy Full Stack Developer 👨🏻‍💻 con formación docente 🎨 y experiencia en liderazgo 🎸. 
-
-Mi trayectoria en el campo de la educación me ha brindado valiosas habilidades en el manejo de grupos, la organización, el trabajo en equipo, la escucha activa y la atención a las necesidades individuales.
+Soy Full Stack Dev con . 
 
 Soy una persona responsable, perseverante y creativa; en el mundo del desarrollo web, nunca se deja de aprender, y eso es lo que me mantiene entusiasmado y en constante crecimiento.
-
-También soy músico.
 
 ### <div align="center">Contactame!  </div>
 <div align="center">
@@ -39,14 +35,9 @@ También vía email  ▶️ pablolospennato@gmail.com ◀️
 
   Tecnologías 💻🌐
 
-• Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, Redux, Zustand, Tailwind, Material UI.
+• Frontend: HTML5, CSS3, JavaScript, React.js, Next.js, WordPress, Redux, Zustand, Tailwind, Material UI.
 
-• Backend: JavaScript, Node.js, Python, Django, Express.js, PostgreSQL, Sequelize.
-
-• Herramientas: Git, Github, Slack, Trello, Notion.
-
-• Ágil: Scrum.
-
+• Backend: JavaScript, Node.js, Python, Django, Express.js, PostgreSQL, Sequelize, Docker.
 
 <br/>  
 
