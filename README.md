@@ -1,7 +1,7 @@
 ## <div align="center">Pablo Xavier Lospennato</div>  
 #### <div align="center">Desarrollador full stack</div>  
 <div align="center">
-<img src="https://freerangestock.com/sample/113049/coding-and-programming--computer-science-and-it.jpg" align="center" style="width: 100%" />
+<!-- <img src="https://freerangestock.com/sample/113049/coding-and-programming--computer-science-and-it.jpg" align="center" style="width: 100%" /> -->
 </div>  
   
 
